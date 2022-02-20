@@ -56,4 +56,8 @@ def start():
     turn += 1
   print("The game is a draw!")
 
-start()
+def main():
+  start()
+
+if __name__ == "__main__":
+  main()
